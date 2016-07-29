@@ -72,6 +72,10 @@ Plugin 'christoomey/vim-tmux-navigator'
 "A nicer Python indentation style for vim
 Plugin 'hynek/vim-python-pep8-indent'
 
+Plugin 'rking/ag.vim'
+
+Plugin 'tpope/vim-fugitive'
+
 
 call vundle#end()
 
